@@ -1,13 +1,10 @@
-Afocha &trade;
+`Afocha Software Foundation`
 
-What apl can do?
+What about BOW?
 
-```apl
-Byter = Bow()->runtime("BByter");
-Byter.random.print([A-Za-z0-9]).asImage;
+```bow
+bow ← BOW.loop(∞);
+bow →→[0…z] as 'image/jpg;
 ```
-
-Result 💎💎
-[![Bow Byter](https://afocha.org/bowrecap.jpg)](http://afocha.org/profile/afocha)
-
-Communities building Communities
+>RESULT
+>> [![Bow RecapIt](https://afocha.org/bowrecap.jpg)](http://afocha.org/app/recapit.bow)
